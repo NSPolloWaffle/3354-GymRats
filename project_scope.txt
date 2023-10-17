@@ -1,0 +1,25 @@
+Gym Rats (A Fitness App)
+1. User Profile and Management
+	1.1. Submit personal information including height, weight and fitness goals
+	1.2. Assess current level of fitness
+	1.3. User feedback and ratings on workouts
+	1.4. Security measures to protect user data
+2. Fitness and Nutrition Logger/Tracker
+	2.1. Create routines based on available equipment and current goals assisted by AI
+	2.2. AI recommendations for workout routines using a library of exercises
+	2.3. Log and track workout progress
+	2.4. Support attaching a post-workout photo to logged workouts
+	2.5. Track nutrition such as caloric intake
+	2.6. AI guidance on nutrition based on tracked data and dietary restrictions
+3. Social Platform
+	3.1. Add/remove users as friends
+	3.2. Share workouts and progress to other users (optional)
+	3.3. Create challenges or competitions for friends to participate in (optional)
+4. Monetization (optional)
+	4.1. Free version of the app limits features such as how many routines a user can make
+	4.2. Premium version gives users full access to all of the app’s utilities
+5. Other
+	5.1. Offline support of app that allows logging and progress tracking without internet connection
+	5.2. Support for multiple platforms such as iOS, Android, and wearable technology
+	5.3. Zoom in/out and scroll whenever necessary
+
